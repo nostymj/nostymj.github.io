@@ -1,2 +1,2 @@
-# Nosty's MJ Blog
-A barebones description for my blog on a new github acct.
+ # Website forked from Min Mistakes remote themes starter
+ Jekyll website forked from Min Mistakes
